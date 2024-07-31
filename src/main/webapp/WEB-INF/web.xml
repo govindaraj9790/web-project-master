@@ -12,7 +12,7 @@
         <load-on-startup>1</load-on-startup>
     </servlet>
     <servlet-mapping>
-        <servlet-name>War Web service</servlet-name> <!-- Set this to whatever you'd like your service to be called -->
+        <servlet-name>Welocme to CP</servlet-name> <!-- Set this to whatever you'd like your service to be called -->
         <url-pattern>/webapi/*</url-pattern> <!-- Not happy with the /webapi/ infix? Change it here -->
     </servlet-mapping>
 </web-app>
