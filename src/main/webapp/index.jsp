@@ -6,10 +6,9 @@
 	<link href="static/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<header>English Tamil</header>
 <h1>Welcome to Tamil Nadu</h1>
 <h1>Welcome to TVM</h1>
-<h1>My World is Tour</h1>
+<h1>Welocme to Dubai</h1>
 
 </body>
 </html>
